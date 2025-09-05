@@ -29,4 +29,7 @@ class Home extends BasePublicController
         
         $this->template('password/jogo');
     }
+    public function conferir(){
+        $this->template('password/confere');
+    }
 }

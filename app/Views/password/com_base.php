@@ -19,6 +19,9 @@
                 <div class="col-9 col-sm-8">
                     <input type="range" class="form-range" name="leet-intensity" id="leet-intensity" min="1" max="5" value="3">
                 </div>
+                <div id="forca-leet-info" class="text-sm text-gray-600">
+                    💡 Ajuste a intensidade para melhor segurança
+                </div>
             </div>
             <div class="mb-3 col-12 col-sm-12 col-md-10 col-lg-8 col-xl-6 mx-auto">
                 <label for="senhaGerada" class="form-label">Senha gerada</label>
